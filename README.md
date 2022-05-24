@@ -1,2 +1,2 @@
 # At-mega-328
-ATmega328 specs and parts information.
+Arduino ATmega328 specs and parts information.
